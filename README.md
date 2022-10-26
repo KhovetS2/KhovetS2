@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">Contatos:</h3>
+<h3 align="center">Contatos</h3>
 <p align="center">
 <a href="https://twitter.com/khovets2" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" style="background-color: rgb(248,248,248); border: 1px solid  rgb(248,248,248); border-radius: 9px;"/></a>
 <a href="https://linkedin.com/in/isaque-elis-da-silva-2a4087226" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="background-color: rgb(248,248,248); border: 1px solid  rgb(248,248,248); border-radius: 9px;"alt="isaque-elis-da-silva-2a4087226" height="40" width="40" /></a>
