@@ -7,6 +7,7 @@
 
 - 💻 Atualmente Cursando Analise e Desenvolvimentos na Fatec de São Jose dos Campos
 - 🌱 Eu estou atualmente melhorando meus conhecimentos em **Python e Javascript**
+- 🏃 Experiência com a metodologia do scrum
 
 
 
@@ -14,6 +15,7 @@
 <p align="center">
 <a href="https://twitter.com/khovets2" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" style="background-color: rgb(248,248,248); border: 1px solid  rgb(248,248,248); border-radius: 9px;"/></a>
 <a href="https://linkedin.com/in/isaque-elis-da-silva-2a4087226" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="background-color: rgb(248,248,248); border: 1px solid  rgb(248,248,248); border-radius: 9px;"alt="isaque-elis-da-silva-2a4087226" height="40" width="40" /></a>
+<a href="mailto:isaqueelis2@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="background-color: white; border: 1px solid  white; border-radius: 9px;"alt="isaque-elis-da-silva-2a4087226" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Linguaguens e Ferramentas</h3>
