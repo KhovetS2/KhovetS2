@@ -40,7 +40,7 @@
 <div> 
 <div align="center">
 
-  ![Snake animation](https://github.com/khovets2/khovets2/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/KhovetS2/KhovetS2/blob/output/github-snake-dark.svg)
 
 </div>
 
